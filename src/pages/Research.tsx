@@ -35,9 +35,9 @@ const academicPublications = [
     note: "forthcoming",
   },
   {
-    title: "Generating Economic Growth through Powershoring",
+    title: "Powershoring Pathways to Economic Growth",
     coauthors: "with Ricardo Hausmann",
-    note: "Climate Policy, forthcoming",
+    note: "forthcoming",
   },
   {
     title: "Balancing Global Competitiveness and Regional Economic Development in US Green Industrial Policy",
@@ -48,7 +48,7 @@ const academicPublications = [
 
 const policyPublications = [
   {
-    title: "Powershoring Pathways to Economic Growth",
+    title: "Generating Economic Growth Through Powershoring",
     venue: "Industry on the Road to 2050, the Climate Club",
     date: "November 2025",
     coauthors: "with Ricardo Hausmann",
