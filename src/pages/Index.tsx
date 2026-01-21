@@ -33,9 +33,14 @@ const Index = () => {
                 and supporting innovation and economic growth.
               </p>
               <p className="mt-4 text-lg text-muted-foreground leading-relaxed max-w-xl">
-                My work aims to help policymakers make better policy with frontier research. I have been published by Cambridge University Press,
-                Harvard Kennedy School, the Financial Times, ProMarket, MSNBC, Bruegel and the Roosevelt 
-                Institute, among others.
+                My work aims to help policymakers make better policy with frontier research. I have been published by{" "}
+                <a href="https://www.cambridge.org/core/books/brands-competition-law-and-ip/22BBF0CD9EC4F84074595AFCBF7FE1FD" target="_blank" rel="noopener noreferrer" className="text-foreground font-medium hover:underline">Cambridge University Press</a>,{" "}
+                <a href="https://growthlab.hks.harvard.edu/publication/growth-through-inclusion-in-south-africa/" target="_blank" rel="noopener noreferrer" className="text-foreground font-medium hover:underline">Harvard Kennedy School</a>,{" "}
+                <a href="https://www.ft.com/content/953817f5-5bc4-49e1-b583-977cc4780eca" target="_blank" rel="noopener noreferrer" className="text-foreground font-medium hover:underline">the Financial Times</a>,{" "}
+                <a href="https://www.promarket.org/2025/05/20/the-antitrust-agencies-should-block-openais-windsurf-acquisition-to-support-ai-innovation/" target="_blank" rel="noopener noreferrer" className="text-foreground font-medium hover:underline">ProMarket</a>,{" "}
+                <a href="https://www.ms.now/opinion/msnbc-opinion/google-chrome-browser-monopoly-trial-doj-advertising-rcna181356" target="_blank" rel="noopener noreferrer" className="text-foreground font-medium hover:underline">MSNBC</a>,{" "}
+                <a href="https://www.bruegel.org/blueprint/green-intersections-global-embedding-climate-change-policy" target="_blank" rel="noopener noreferrer" className="text-foreground font-medium hover:underline">Bruegel</a> and the{" "}
+                <a href="https://rooseveltinstitute.org/publications/promoting-innovation/" target="_blank" rel="noopener noreferrer" className="text-foreground font-medium hover:underline">Roosevelt Institute</a>, among others.
               </p>
               <p className="mt-4 text-lg text-muted-foreground leading-relaxed max-w-xl">
                 My prior experience has spanned industrial policy and economic development initiatives 
